@@ -34,7 +34,7 @@ jobs:
         with:
           # Create a Personal Access Token with repo permissions
           personal_token: ${{ secrets.DEPLOY_TOKEN }}
-          external_repository: YOUR_USERNAME/YOUR_PAGES_REPO
+          external_repository: Emil-MalmstedtJ3M/quantumui.github.io
           publish_branch: main  # or gh-pages
           publish_dir: ./preview/dist
           user_name: 'github-actions[bot]'
