@@ -1,0 +1,1 @@
+import{j as e,b as s,K as t}from"./index-CAdRnAL_.js";function a({className:r,...o}){return e.jsx(s,{showToolbar:!1,style:{width:"100%",height:"100%",border:"none"},className:r,children:e.jsx(t,{...o})})}export{a as default};
